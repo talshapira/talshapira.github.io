@@ -1,5 +1,5 @@
 ---
-title: "FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition"
+title: "Cyberweek 2019 - FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition"
 collection: talks
 type: "Talk"
 permalink: /talks/flowpic_cyberweek_19
