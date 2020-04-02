@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tal Shapira"
 title_separator          : "-"
 name                     : "Tal Shapira"
-description              : "P.hD. Student at [the School of Electrical Engineering, Tel-Aviv University](https://en-engineering.tau.ac.il/School-of-Electrical-Engineering/main) & Head of Algorithms at [Guardian Optical Technologies](https://www.guardian-optech.com/)"
+description              : "P.hD. Student at the School of Electrical Engineering, Tel-Aviv University & Head of Algorithms at Guardian Optical Technologies"
 # description              : "P.hD. Student at the School of Electrical Engineering, Tel-Aviv University & Head of Algorithms at Guardian Optical Technologies"
 url                      : "https://talshapira.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   avatar           : "profile_.png"
 #   bio              : "P.hD. Student at the School of Electrical Engineering, Tel-Aviv University"
 #   bio              : "P.hD. Student at [the School of Electrical Engineering, Tel-Aviv University](https://en-engineering.tau.ac.il/School-of-Electrical-Engineering/main) & Head of Algorithms at [Guardian Optical Technologies](https://www.guardian-optech.com/)"
-  bio              : P.hD. Student at <a href="https://en-engineering.tau.ac.il/School-of-Electrical-Engineering/main">the School of Electrical Engineering, Tel-Aviv University</a> & Head of Algorithms at [Guardian Optical Technologies](https://www.guardian-optech.com/)
+  bio              : P.hD. Student at <a href="https://en-engineering.tau.ac.il/School-of-Electrical-Engineering/main">the School of Electrical Engineering, Tel-Aviv University</a> & Head of Algorithms at <a href="https://www.guardian-optech.com/">Guardian Optical Technologies</a>
 
 #   location         : "Location"
 #   employer         :
