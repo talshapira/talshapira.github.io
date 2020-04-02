@@ -1,6 +1,6 @@
 ---
-title: "FlowPic"
-excerpt: "Dataset and other resources<br/><img src='http://img.youtube.com/vi/sZm7y91v2co/0.jpg'>"
+title: "FlowPic Project Page"
+excerpt: "Dataset and other resources<br/><img src='http://talshapira.github.io/files/FlowPic_sys.png'>"
 collection: portfolio
 ---
 
