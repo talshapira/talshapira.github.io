@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tal Shapira"
 title_separator          : "-"
 name                     : "Tal Shapira"
-description              : "P.hD. Student in the School of Electrical Engineering, Tel-Aviv University"
+description              : "P.hD. Student at the School of Electrical Engineering, Tel-Aviv University & Head of Algorithms at <a href="https://www.guardian-optech.com/">Guardian Optical Technologies</a>"
 url                      : "https://talshapira.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "talshapira.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
