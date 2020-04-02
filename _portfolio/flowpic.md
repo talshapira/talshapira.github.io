@@ -36,7 +36,9 @@ Each pacap file corresponds to a specific application, a traffic category and an
 We use a combined dataset only from the five categories that contains enough samples: VoIP, Video, Chat, Browsing, and File Transfer. For these categories we have 3 encryption techniques: non VPN, VPN (for all classes except Browsing) and TOR.
 Notice that our categories differ slightly from those suggested by UNB. All the applications that were captured in order to create the dataset, for each traffic category and encryption technique, are shown in the folowing table:
 
-<img src='http://talshapira.github.io/files/flowpic_dataset.png' width="600" align="middle">
+<p align="center">
+<img src='http://talshapira.github.io/files/flowpic_dataset.png' width="600">
+</p>
 
 We parsed the pcap files and constructed for each combination of traffic category and encryption technique a CSV file with the following structure - 
 |pcap_name|ip_src|port_src|ip_dst|port_dst|TCP/UDP|start_time|length|[timestamps_list]|[sizes_list]| , such that each entry corresponds to a specific unidirectional session.
