@@ -31,10 +31,20 @@ We introduce a novel approach for encrypted Internet traffic classification and 
 
 We use labeled datasets of packet capture (pcap) files from the Uni. of New Brunswick (UNB): ["ISCX VPN-nonVPN traffic dataset" (ISCX-VPN)](https://www.unb.ca/cic/datasets/vpn.html) and ["ISCX Tor-nonTor dataset" (ISCX-Tor)](https://www.unb.ca/cic/datasets/tor.html), as well as our own small packet capture (TAU), and conduct different types of experiments; (1) multiclass classification experiments over non-VPN/VPN/Tor and merged dataset, (2) class vs. all classification experiments, (3) application identification, and (4) classification of an unknown application.
 
+Each pacap file corresponds to a specific application, a traffic category and an encryption technique. However, all these captures also contain sessions of different traffic categories, since while performing one action in an application, many other sessions occur for different tasks simultaneously. For example, while using VoIP over Facebook, there is another STUN session taking place at the same time for adjusting and maintaining the VoIP conversation, as well as an HTTPS session of the Facebook site.
+
+We use a combined dataset only from the five categories that contains enough samples: VoIP, Video, Chat, Browsing, and File Transfer. For these categories we have 3 encryption techniques: non VPN, VPN (for all classes except Browsing) and TOR.
+Notice that our categories differ slightly from those suggested by UNB. All the applications that were captured in order to create the dataset, for each traffic category and encryption technique, are shown in the folowing table:
+
+<img src='http://talshapira.github.io/files/flowpic_dataset.png'>
+
+We parsed the pcap files and constructed for each combination of traffic category and encryption technique a CSV file with the following structure - 
+|pcap_name|ip_src|port_src|ip_dst|port_dst|TCP/UDP|start_time|length|[timestamps_list]|[sizes_list]| , such that each entry corresponds to a specific unidirectional session.
+
 
 ## License
 
-Our proceesed dataset (CSV files) is publicly available for researchers. If you are using our dataset, you should cite our related research paper, as well as UNB's related research papers which outlining the details of the dataset and its underlying principles:
+Our proceesed dataset (i.e. CSV files) is publicly available for researchers. If you are using our dataset, you should cite our related research paper, as well as UNB's related research papers:
 
 * T. Shapira and Y. Shavitt, "FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Paris, France, 2019, pp. 680-687.
 
