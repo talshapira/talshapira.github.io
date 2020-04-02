@@ -10,6 +10,6 @@ location: "Tel-Aviv, Israel"
 
 FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition
 
-![Poster](flowpic_poster_img.png)
+![Poster](http://talshapira.github.io/images/flowpic_poster_img.png)
 
 
