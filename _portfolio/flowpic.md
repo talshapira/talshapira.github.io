@@ -25,5 +25,5 @@ We introduce a novel approach for encrypted Internet traffic classification and 
 
 <img src='http://talshapira.github.io/files/flowpic_categories.png'>
 
-<img src='http://talshapira.github.io/files/flowpic_apps.png'>
+<img src='http://talshapira.github.io/files/flowpic_apps.png' width="400">
 
