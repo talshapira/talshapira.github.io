@@ -8,6 +8,8 @@ date: 2019-06-24
 location: "Tel-Aviv, Israel"
 ---
 
+![FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition](http://img.youtube.com/vi/sZm7y91v2co/0.jpg)
+
 [FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition](https://www.youtube.com/watch?v=sZm7y91v2co)
 
 [![FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition](http://img.youtube.com/vi/sZm7y91v2co/0.jpg)](https://www.youtube.com/watch?v=sZm7y91v2co "FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition")
