@@ -2,12 +2,12 @@
 
 Tal Shapira:
   name        : "Tal Shapira"
-  uri         : "http://name.com"
+  uri         : "https://talshapira.github.io/"
   email       : "talshapirala@gmail.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  bio         : "P.hD. Student in the School of Electrical Engineering, Tel-Aviv University"
+  avatar      : "profile.jpg"
+  twitter     : "talshapirala"
+  facebook : "shapiratal"
 
 # Name2 Name2:
 #   name        : "Name2 Name2"
