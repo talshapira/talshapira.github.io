@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tal Shapira"
-  avatar           : "profile.jpg"
+  avatar           : "profile_.png"
   bio              : "P.hD. Student in the School of Electrical Engineering, Tel-Aviv University"
 #   location         : "Location"
 #   employer         :
