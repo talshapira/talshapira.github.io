@@ -8,8 +8,10 @@ date: 2019-11-17
 location: "Tel-Aviv, Israel"
 ---
 
-FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition
-
 <img src="http://talshapira.github.io/images/flowpic_poster_img.png" width="400"/>
+
+[Poster](http://talshapira.github.io/files/FlowPic_Poster_for_print.pdf)
+
+
 
 
