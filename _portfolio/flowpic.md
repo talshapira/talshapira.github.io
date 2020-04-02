@@ -32,10 +32,11 @@ We introduce a novel approach for encrypted Internet traffic classification and 
 We use labeled datasets of packet capture (pcap) files from the Uni. of New Brunswick (UNB): ["ISCX VPN-nonVPN traffic dataset" (ISCX-VPN)](https://www.unb.ca/cic/datasets/vpn.html) and ["ISCX Tor-nonTor dataset" (ISCX-Tor)](https://www.unb.ca/cic/datasets/tor.html), as well as our own small packet capture (TAU), and conduct different types of experiments; (1) multiclass classification experiments over non-VPN/VPN/Tor and merged dataset, (2) class vs. all classification experiments, (3) application identification, and (4) classification of an unknown application.
 
 
+## License
 
 Our proceesed dataset (CSV files) is publicly available for researchers. If you are using our dataset, you should cite our related research paper, as well as UNB's related research papers which outlining the details of the dataset and its underlying principles:
 
-*T. Shapira and Y. Shavitt, "FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Paris, France, 2019, pp. 680-687.
+* T. Shapira and Y. Shavitt, "FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Paris, France, 2019, pp. 680-687.
 
 * Gerard Drapper Gil, Arash Habibi Lashkari, Mohammad Mamun, Ali A. Ghorbani, "Characterization of Encrypted and VPN Traffic Using Time-Related Features", In Proceedings of the 2nd International Conference on Information Systems Security and Privacy(ICISSP 2016) , pages 407-414, Rome, Italy.
 
