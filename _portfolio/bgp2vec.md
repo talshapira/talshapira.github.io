@@ -11,8 +11,12 @@ We introduce a novel approach for Autonomous System (AS) embedding using deep le
 
 # Method
 
-Our method works as follows: first, using a shallow neural network, we map each AS number (ASN) to an embedded vector. Then, for each task; AS classification or ToR classification task, we activate Artificial Neural Network (ANN) that receives the vectors from the previous stage.
+Our method works as follows: first, using a shallow neural network, we map each AS number (ASN) to an embedded vector. 
+
+The training procedure is done by feeding the network with the ASN pairs; the input is a one-hot vector representing the input ASN and the training outputs, which are also one-hot vectors representing the output ASNs (the context ASNs). Then applying gradient descent learning~\cite{726791} (also known as back-propagation) to adjust the weights of the network in order to maximize the log probability of any context word given the input word.
+
+<img src='http://talshapira.github.io/files/as_route_ngram_example_fixed.png'>
+
+Then, for each task; AS classification or ToR classification task, we activate Artificial Neural Network (ANN) that receives the vectors from the previous stage.
 
 <img src='http://talshapira.github.io/files/BGP2VEC_sys_0.png'>
-
-<br/><br/><img src='http://talshapira.github.io/files/as_route_ngram_example_fixed.png'>
