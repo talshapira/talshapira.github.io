@@ -4,7 +4,6 @@ excerpt: "We introduce a novel approach for Autonomous System (AS) embedding usi
 collection: portfolio
 ---
 
-# BGP2VEC
 
 We introduce a novel approach for Autonomous System (AS) embedding using deep learning based on only BGP announcments. Using these vectors we able to solve multiple important classification problem such as AS business types, AS Types of Relationship (ToR) and even IP hijack detection.  Similar to natural language processing (NLP) models, the embedding represents latent characteristics of the ASN and its interactions on the Internet.  The embedding coordinates of each AS are represented by a vector; thus, we call our method BGP2VEC.
 
