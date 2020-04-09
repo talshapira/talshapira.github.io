@@ -7,7 +7,9 @@ collection: portfolio
 
 We introduce a novel approach for Autonomous System (AS) embedding using deep learning based on only BGP announcments. Using these vectors we able to solve multiple important classification problem such as AS business types, AS Types of Relationship (ToR) and even IP hijack detection.  Similar to natural language processing (NLP) models, the embedding represents latent characteristics of the ASN and its interactions on the Internet.  The embedding coordinates of each AS are represented by a vector; thus, we call our method BGP2VEC.
 
-<img src='http://talshapira.github.io/files/ToR_Gao.png'>
+<p align="center">
+<img src='http://talshapira.github.io/files/ToR_Gao.png' width="400">
+</p>
 
 # Method
 
