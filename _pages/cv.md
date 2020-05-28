@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 2019 - Present: Head of Algorithms
+* 2020 - Present: Co-Founder
+  * Stealth mode startup, Tel-Aviv, Israel
+  
+* 2019 - 2020: Head of Algorithms
   * Guardian Optical Technologies, Tel-Aviv, Israel
 
 * 2018 - 2019: Head of Branch
@@ -37,7 +40,7 @@ Work experience
   
 Skills
 ======
-* Machine Learning, Deep Learning, Computer Vision
+* Machine Learning, Deep Learning, Data Science, Computer Vision, Big Data
 * Computer Networks, Cybersecurity
 * Programming Languages: Python (incl. TensorFlow, Keras, SKLearn, pandas, etc.), Go Lang
 * Operating Systems: Windows, Linux (RHEL, Ubuntu), Android
