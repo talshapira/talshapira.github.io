@@ -1,7 +1,7 @@
 ---
 title: "CSCML 2020 - Solving Network Security Problems Using Autonomous Systems Embedding"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/bgp2vec_cscml20
 venue: "4th International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2020)"
 date: 2020-07-02
