@@ -20,10 +20,10 @@ Work experience
 * 2020 - Present: Co-Founder
   * Stealth mode startup, Tel-Aviv, Israel
   
-* 2019 - 2020: Head of Algorithms
+* 2019 - 2020: Head of Algorithms (Deep Learning/ Computer Vision)
   * Guardian Optical Technologies, Tel-Aviv, Israel
 
-* 2018 - 2019: Head of Branch
+* 2018 - 2019: Head of Branch, Cyber Security R&D
   * Prime Minister's Office, Israel
  
 * 2016 - 2018: Data Science Team Leader
