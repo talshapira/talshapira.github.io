@@ -8,7 +8,7 @@ date: 2020-07-02
 location: "Be'er Sheva, Israel"
 ---
 
-<img src="http://talshapira.github.io/images/tors.png" width="400"/>
+<img src="http://talshapira.github.io/images/tors.png" width="600"/>
 
 [Presentation](https://drive.google.com/file/d/1T1Ts1vzdfzGZl0VXqnPspBgJmLV5XqwN/view?usp=sharing)
 
