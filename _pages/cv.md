@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Physics, minor in Mathematics (Talpiot Excellence Program), The Hebrew University of Jerusalem, 2012
 * M.Sc. in Electrical Engineering, Tel Aviv University, 2018
-* Ph.D in Electrical Engineering, Tel Aviv University, 2022 (expected)
+* Ph.D. in Electrical Engineering, Tel Aviv University, 2022 (expected)
 
 Work experience
 ======
