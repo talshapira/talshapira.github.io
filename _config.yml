@@ -90,17 +90,17 @@ author:
 #   location         : "Location"
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=2VthnhIAAAAJ&hl=en"
   email            : "talshapirala@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tal_Shapira"
 #   uri              :
 #   bitbucket        :
 #   codepen          :
 #   dribbble         :
 #   flickr           :
-  facebook         : "shapiratal"
+#   facebook         : "shapiratal"
 #   foursquare       :
-  github           : "talshapira"
+#   github           : "talshapira"
 #   google_plus      :
 #   keybase          :
 #   instagram        :
