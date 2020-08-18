@@ -13,4 +13,6 @@ A talk by Tal Shapira, Ph.D. candidate at the School of Electrical Engineering, 
 
 Presented in ACM SIGCOMM Workshop on Network Meets AI & ML (NetAI 2020), New York, NY, USA. 
 
-T. Shapira and Y. Shavitt, "A Deep Learning Approach for IP Hijack Detection Based on ASN Embedding," ACM SIGCOMM Workshop on Network Meets AI & ML (NetAI 2020), New York, NY, USA, Aug 2020, pp. 35–41. https://dl.acm.org/doi/abs/10.1145/34.
+T. Shapira and Y. Shavitt, "A Deep Learning Approach for IP Hijack Detection Based on ASN Embedding," ACM SIGCOMM Workshop on Network Meets AI & ML (NetAI 2020), New York, NY, USA, Aug 2020, pp. 35–41.
+
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/3405671.3405814)
