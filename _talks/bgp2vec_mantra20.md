@@ -2,7 +2,7 @@
 title: "ManTra 2020 - Using Deep Learning to Detect IP Hijack Attacks"
 collection: talks
 type: "Talk"
-permalink: /talks/bgp2vec_netai20
+permalink: /talks/bgp2vec_mantra20
 venue: "ACM SIGCOMM 2020 Workshop on Traffic Manipulation (ManTra 2020)"
 date: 2020-08-14
 location: "New York, NY, USA"
