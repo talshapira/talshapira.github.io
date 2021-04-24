@@ -8,7 +8,13 @@ collection: portfolio
 Identifying the type of a network flow or a specific application has many advantages, but become harder in recent years due to the use of encryption, e.g., by VPN and Tor. 
 Current solutions rely mostly on handcrafted features and then apply supervised learning techniques for the classification. 
 	
-We introduce a novel approach for encrypted Internet traffic classification and application identification by transforming basic flow data into a picture, em a FlowPic, and then using known image classification deep learning techniques, Convolutional Neural Networks (CNNs), to identify the flow category (browsing, chat, video, etc.) and the application in use. 
+We introduce a novel approach for encrypted Internet traffic classification and application identification by transforming basic flow data into a picture, em a FlowPic, and then using known image classification deep learning techniques, Convolutional Neural Networks (CNNs), to identify the flow category (browsing, chat, video, etc.) and the application in use.  Our approach can classify traffic with high accuracy, both for a specific application, or a flow category, even for VPN and Tor traffic. Our classifier can even identify with high success new applications that were not part of the training phase for a category, thus, new versions or applications can be categorized without additional training.
+
+A recent [work](https://arxiv.org/abs/2104.03182) by Yang et al. compared different recent methods for Internet Traffic Classification, and showed that our method achieves the best tradeoff between accuracy and model complexity, as shown below (FlowPic marked with [17]):
+
+<p align="center">
+<img src='http://talshapira.github.io/files/yang_2021_comaprison.png' width="400">
+</p>
 
 # Approach
 
@@ -47,7 +53,9 @@ We parsed the pcap files and constructed for each combination of traffic categor
 
 ## License
 
-Our proceesed dataset (i.e. CSV files) is publicly available upon request for researchers. If you are using our dataset, you should cite our related research paper, as well as UNB's related research papers:
+Our proceesed dataset (i.e. CSV files) is publicly available upon request for researchers. If you are using our dataset, please cite our related research paper, as well as UNB's related research papers:
+
+* T. Shapira and Y. Shavitt, "FlowPic: A Generic Representation for Encrypted Traffic Classification and Applications Identification," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2021.3071441.
 
 * T. Shapira and Y. Shavitt, "FlowPic: Encrypted Internet Traffic Classification is as Easy as Image Recognition," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Paris, France, 2019, pp. 680-687.
 
