@@ -1,0 +1,14 @@
+---
+title: "FlowPic: A Generic Representation for Encrypted Traffic Classification and Applications Identification"
+collection: publications
+permalink: /publication/flowpic_tnsm21
+excerpt: 'Identifying the type of a network flow or a specific application has many advantages, such as, traffic engineering, or to detect and prevent application or application types that violate the organization’s security policy. The use of encryption, such as VPN, makes such identification challenging. Current solutions rely mostly on handcrafted features and then apply supervised learning techniques for the classification. We introduce a novel approach for encrypted Internet traffic classification and application identification by transforming basic flow data into an intuitive picture, a FlowPic, and then using known image classification deep learning techniques, CNNs, to identify the flow category (browsing, chat, video, etc.) and the application in use. We show that our approach can classify traffic with high accuracy, both for a specific application, or a flow category, even for VPN and Tor traffic. Our classifier can even identify with high success new applications that were not part of the training phase for a category, thus, new versions or applications can be categorized without additional training.'
+date: April 2021
+venue: 'IEEE Transactions on Network and Service Management (TNSM)'
+paperurl: 'https://ieeexplore.ieee.org/document/9395707'
+citation: 'T. Shapira and Y. Shavitt, "FlowPic: A Generic Representation for Encrypted Traffic Classification and Applications Identification," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2021.3071441.'
+---
+
+Identifying the type of a network flow or a specific application has many advantages, such as, traffic engineering, or to detect and prevent application or application types that violate the organization’s security policy. The use of encryption, such as VPN, makes such identification challenging. Current solutions rely mostly on handcrafted features and then apply supervised learning techniques for the classification. We introduce a novel approach for encrypted Internet traffic classification and application identification by transforming basic flow data into an intuitive picture, a FlowPic, and then using known image classification deep learning techniques, CNNs, to identify the flow category (browsing, chat, video, etc.) and the application in use. We show that our approach can classify traffic with high accuracy, both for a specific application, or a flow category, even for VPN and Tor traffic. Our classifier can even identify with high success new applications that were not part of the training phase for a category, thus, new versions or applications can be categorized without additional training.
+
+[Download paper here](https://ieeexplore.ieee.org/document/9395707)
