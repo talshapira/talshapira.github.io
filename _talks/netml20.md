@@ -8,7 +8,7 @@ date: 2021-01-15
 location: "Virtual"
 ---
 
-<img src="http://talshapira.github.io/images/netml20.png" width="600"/>
+<img src="http://talshapira.github.io/images/netml.png" width="600"/>
 
 Winner of the [NetML](https://eval.ai/web/challenges/challenge-page/526/overview) Network Traffic Analytics Challenge 2020 (TAU-Team).
 
