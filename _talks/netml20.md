@@ -8,6 +8,8 @@ date: 2021-01-15
 location: "Virtual"
 ---
 
+<img src="http://talshapira.github.io/images/netml20.png" width="600"/>
+
 Winner of the [NetML](https://eval.ai/web/challenges/challenge-page/526/overview) Network Traffic Analytics Challenge 2020 (TAU-Team).
 
 [NetML Challenge 2020](https://arxiv.org/abs/2004.13006) is a machine learning driven network traffic analytic challenge where participants are required to apply novel machine learning technologies in order to detect malicious flows or distinguish between applications in a fine-grained fashion among network flows.
