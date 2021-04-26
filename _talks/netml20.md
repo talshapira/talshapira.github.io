@@ -18,4 +18,4 @@ The challenge is composed of 7 tracks, 4 of them for malware detection and the r
 We , the TAU-Team, are the only team to capture one of the top 3 places in all of the tracks and first place in more than one. In this document, we share technical details of our approach for Track-3 and Track-5, where we got first place.
 
 
-You can find a detailed description of our approach in the following [link](https://github.com/talshapira/talshapira.github.io/blob/master/files/NetML___TAUTeam.pdf).
+You can find a detailed description of our approach in the following [link](https://drive.google.com/file/d/1T_B7U49edDM1omgguZsABkLa8uGQRDTV/view?usp=sharing).
